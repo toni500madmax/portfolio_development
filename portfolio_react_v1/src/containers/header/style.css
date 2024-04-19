@@ -1,0 +1,11 @@
+header {
+  height: 70px;
+  background-color: #000;
+  background: linear-gradient(
+    180deg,
+    rgb(0, 0, 0) 40%,
+    rgba(0, 0, 0, 0) 60%,
+    rgba(244, 244, 244, 0) 100%
+  );
+  z-index: 5;
+}
